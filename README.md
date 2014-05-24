@@ -13,7 +13,7 @@ This gem connects to the API of spanx and allows for:
 
 Add this line to your application's Gemfile:
 
-    gem 'spanx-api-client'
+    gem 'spanx-client'
 
 And then execute:
 
@@ -21,7 +21,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install spanx-api-client
+    $ gem install spanx-client
 
 ## Usage
 
